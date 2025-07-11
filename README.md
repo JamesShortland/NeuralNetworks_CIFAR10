@@ -1,6 +1,6 @@
 # Neural Networks and Deep Learning Programming Project: Cifar-10 Image Classifier
 
-This repository contains my solution to a programming project for the Neural Networks and Deep Learning course. The task was to design and implement a custom neural network architecture to classify images from the CIFAR-10 dataset. The project involved building the architecture from scratch using PyTorch, training it on CIFAR-10, and evaluating its performance on the test set.
+This repository contains my solution to a programming project for the Neural Networks and Deep Learning course. The task was to design and implement a custom neural network architecture to classify images from the CIFAR-10 dataset. The project involved building the architecture from scratch using PyTorch, training it on CIFAR-10, and evaluating its performance on the test set. The original code was written in Python, with the final submission in the Juypter Notebook, which includes the ran code.
 
 ## The prompt: 
 Implement a neural network that classifies images in the CIFAR-10 dataset. The CIFAR-10 dataset is composed of 60,000 small images of the same size (3x32x32), each belonging to one of 10 classes. There are 6,000 images per class, and the images are broken up into a training dataset of 50,000 and a test dataset of 10,000.
