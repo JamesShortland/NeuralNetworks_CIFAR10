@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5260311-6167-4125-9fa7-c6a1a4a76236" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NeuralNetworks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NN_Coursework1_code.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NN_Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="a5260311-6167-4125-9fa7-c6a1a4a76236" name="Changes" comment="Adding NN Cifar10 code to GitHub">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1743721228161</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding NN Cifar10 code to GitHub">
+      <option name="closed" value="true" />
+      <created>1752223804174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752223804174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding NN Cifar10 code to GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding NN Cifar10 code to GitHub" />
   </component>
 </project>
